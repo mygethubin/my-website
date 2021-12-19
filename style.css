@@ -1,0 +1,32 @@
+h1{
+    color:aqua;
+    
+            }
+            *{
+                border:solid;
+            }
+
+.header{
+background-color: black;
+
+display:flex;
+
+justify-content: space-between ;
+
+}
+
+.item{
+background-color: blue;
+
+display: flex;
+
+justify-content: space-between;
+}
+
+.footer{
+background-color: brown;
+
+display: flex;
+
+justify-content: space-between;
+}
